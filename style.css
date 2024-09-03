@@ -1,0 +1,186 @@
+body
+{
+background-color:bisque;
+
+}
+
+/*navbar*/
+
+.navbar 
+{
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+background-color: bisque;
+}
+
+.navbar li
+
+{
+        /* change form nav bar horizontal */ 
+ display: inline-block; 
+ margin-right: 200px;
+}
+
+.navbar ul 
+
+{
+
+list-style-type: none;
+
+}
+
+
+/*about*/
+
+.about h3
+
+{
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Se  goe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+background-position: right;
+background-color: rgb(88, 39, 39);
+color: whitesmoke;
+}
+
+.about p
+
+{
+
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif     ;
+
+color: rgb(88, 39, 39); 
+}
+.about img
+
+{
+margin-top:-50px;
+float:right;
+height: 200px;
+width: 200px;
+} 
+
+.work 
+
+{
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+color: rgb(0, 0, 0);
+font-size: medium;
+}
+
+/*job-title*/
+
+.job-title img
+ {
+    margin-top:-50px;
+    float:right;
+    height: 200px;
+    width: 200px;
+}
+
+
+.job-title h3
+
+{
+color:  rgb(255, 255, 255);
+background-color: rgb(88, 39, 39); 
+}
+
+/*style role */
+
+.role h3
+
+{
+background-color: rgb(88, 39, 39) ;
+height: min-content;
+color: whitesmoke;
+}
+
+
+
+.role li
+
+{
+background-color: rgb(88, 39, 39) ;
+height: min-content;
+color: whitesmoke;
+}
+
+
+.role li
+
+{
+background-color: rgb(88, 39, 39) ;
+height: min-content;
+color: whitesmoke;
+}
+
+/*style resume */
+
+.resume
+
+{
+    color: whitesmoke;
+    border-color:  rgb(88, 39, 39);
+    border-radius: 60px;
+   
+}
+
+.resume h3
+
+{
+    color:  rgb(255, 255, 255);
+background-color:  rgb(88, 39, 39) ;
+}
+
+
+.resume p
+
+{
+    color:  rgb(88, 39, 39);
+    
+}
+
+
+/*informations*/ 
+
+.informations
+
+{
+
+height: min-content;
+color: rgb(88, 39, 39) ;
+}
+
+
+/*organisation*/ 
+
+
+.organisation
+
+{
+
+border: 20px;
+border-color: rgb(88, 39, 39);
+border: solid;
+margin-bottom: 20px;
+}
+
+.organisation th
+
+{
+
+border: 20px;
+border-color: rgb(88, 39, 39);
+border: solid;
+margin-bottom: 20px;
+}
+
+
+.organisation td
+
+{
+
+border: 20px;
+border-color: rgb(88, 39, 39);
+border: solid;
+margin-bottom: 20px;
+}
+
